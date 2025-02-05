@@ -21,14 +21,15 @@
         <version>3.5.0</version>
         <executions>
           <execution>
-            ...
             <goals>
               <goal>java</goal>
             </goals>
           </execution>
         </executions>
         <configuration>
-          <mainClass>edu.eci.cvds.patterns.archetype.App</mainClass>
+          <mainClass>edu.eci.cvds.patterns.shapes.ShapeMain</mainClass>
+          <arguments> 
+          </arguments>
         </configuration>
       </plugin>
     </plugins>
