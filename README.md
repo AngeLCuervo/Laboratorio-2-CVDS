@@ -1,5 +1,9 @@
 
 #### TALLER 2
+
+JEISSON SANCHEZ
+ANGEL CUERVO
+
 ##### PATTERNS - FACTORY
 
 ## PRE-RREQUISITOS
@@ -269,6 +273,8 @@ Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con 
 
 
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+- Se ejecutan de manera correcta sin parametros y Hexagon, debido a que sin parametros y Hexagon tambien tienen definido un return y estan en el switch , en cuanto a pentagon y qwerty no aparecen en el switch por eso no funcionan correctamente
 
 ## ENTREGAR
 - Se espera al menos que durante la sesión de laboratorio, se termine el ejercicio del saludo y haya un avance significativo del ejercicio de las figuras.
